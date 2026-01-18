@@ -27,7 +27,11 @@ h2{
 }
 
 p{
-    padding-left: 40px;
+    padding: 10px;
+    margin-left: 30px;
+    background-color: darkcyan;
+    color: white;
+    border: 1px solid white;
 }
 
 ol{
@@ -41,22 +45,22 @@ ul{
 img{
     height: 400px;
     margin: 20px;
-    border: 2px solid darkcyan;
+    border: 1px solid white;
 }
 
 video{
     margin: 20px;
-    border: 2px solid darkcyan;
+    border: 1px solid white;
 }
 
 iframe{
     margin: 20px;
-    border: 2px solid darkcyan;
+    border: 1px solid white;
 }
 
 audio{
     margin: 20px;
-    border: 2px solid darkcyan;
+    border: 1px solid white;
 }
 
 a{
@@ -65,6 +69,7 @@ a{
     padding: 10px;
     background-color: darkcyan;
     color: white;
+    border: 1px solid white;
 }
 
 a:hover, a:visited, a:link, a:active
